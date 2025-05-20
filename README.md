@@ -50,11 +50,4 @@ Ler 3 nomes de itens (armas, poções etc.) e exibi-los formatados como uma list
 
 ---
 
-## 📁 Como usar
-
-Clone o repositório e execute os arquivos com um ambiente compatível com leitura de entrada via `gets()` (ex: plataformas de exercícios online ou adaptações locais com Node.js).
-
----
-
-🧼 Código limpo e simples, ideal para quem está praticando fundamentos da programação!
 
